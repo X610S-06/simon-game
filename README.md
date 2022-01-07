@@ -1,6 +1,6 @@
 # Simon-Game
-Simon is a game of memory skill. 
-It is a series of tones and lights and requires a user to repeat the sequence, Once the user fails, the game is over.
+Simon is a game of memory skill. It is a series of tones and lights, requiring a user to repeat the sequence in order. 
+The game ends, if the user fails to do so.
 
 This website is mainly built as a part of self-learning.
 
