@@ -4,7 +4,7 @@ The game ends, if the user fails to do so.
 
 This website is mainly built as a part of self-learning using HTML, CSS and JavaScript.
 
-# Clone and Use :
+# Clone and Use 
 
   Open Terminal 
   
