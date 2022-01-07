@@ -2,7 +2,7 @@
 Simon is a game of memory skill. It is a series of tones and lights, requiring a user to repeat the sequence in order. 
 The game ends, if the user fails to do so.
 
-This website is mainly built as a part of self-learning.
+This website is mainly built as a part of self-learning using HTML, CSS and Javascript.
 
 # Clone and Use :
 
